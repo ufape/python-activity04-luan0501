@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# YOUR FULL NAME
+# Luan da Silva Costa
 # UAG00098
 # Problem Set 4 - Problem 2
 # Description:
@@ -28,9 +28,12 @@ Os números são..: 12 13 17
 
 """
 
+from library_problem_2 import divisao
 
 def main():
-    pass  # your code here
+    print("=-=-=-=-=-=-=-=-=-=")
+    divisao()
+    print("=-=-=-=-=-=-=-=-=-=")
 
 
 if __name__ == '__main__':
